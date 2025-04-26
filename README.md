@@ -3,4 +3,5 @@
 
 
 ### 🔖 Learnings :
+- `socket` : https://github.com/DevDish/custom-http-server/blob/main/socket-basics.md
 - `curl` : https://github.com/DevDish/custom-http-server/blob/main/curl-basics.md
